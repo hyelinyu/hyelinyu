@@ -1,5 +1,5 @@
 
-🙋🏻‍♀️ About Me : [Korean 🇰🇷](#) / [English 🇺🇸](#) <br>
+🙋🏻‍♀️ About Me : [한국어 🇰🇷](#) / [English 🇺🇸](#) <br>
 🔗 Connect with me: [LinkedIn]()/[Tech Blog]()
 
 ---
@@ -15,7 +15,4 @@
 -
 -
 
----
-
-![Hyerin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyelinyu&show_icons=true&theme=gruvbox)
 
