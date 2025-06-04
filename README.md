@@ -1,5 +1,5 @@
 
-🙋🏻‍♀️ About Me : [한국어 🇰🇷](#) / [English 🇺🇸](#) <br>
+🙋🏻‍♀️ About Me : [한국어](#) / [English](#) <br>
 🔗 Connect with me: [LinkedIn]()/[Tech Blog]()
 
 ---
