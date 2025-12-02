@@ -6,13 +6,5 @@
 
 ## 💥 Projects
 
-#### Data Analysis
--
--
-
-#### Recommender System
-
--
--
 
 
