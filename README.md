@@ -1,5 +1,5 @@
 
-🔗 Connect with me: [LinkedIn](www.linkedin.com/in/hyelinyu) / [Lynn's Blog](https://hyelinyu.github.io/)
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/hyelinyu) / [Lynn's Blog](https://hyelinyu.github.io/)
 
 
 
