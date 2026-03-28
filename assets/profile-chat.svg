@@ -8,7 +8,7 @@
   <!-- Bubble 1 -->
   <g>
     <rect x="70" y="100" rx="24" ry="24" width="360" height="88" fill="#2F3542"/>
-    <text x="95" y="132" fill="#FFFFFF" font-size="24" font-family="Arial, Helvetica, sans-serif">
+    <text x="95" y="132" fill="#FFFFFF" font-size="23" font-family="Arial, Helvetica, sans-serif">
       <tspan x="95" dy="0">Hi, I'm Hye Rin</tspan>
       <tspan x="95" dy="30">Greetings from Seoul, Korea 🙌</tspan>
     </text>
