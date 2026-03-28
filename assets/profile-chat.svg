@@ -1,41 +1,42 @@
 <svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="900" height="520" rx="28" fill="#0D1117"/>
 
-  <text x="70" y="72" fill="#F8FAFC" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">
-    💌 Message from me with love
+  <text x="70" y="72" fill="#F8FAFC" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    💌 Message from hyelinyu
   </text>
 
+  <!-- Bubble 1 -->
   <g>
-    <rect x="70" y="105" rx="24" ry="24" width="250" height="58" fill="#2F3542"/>
-    <text x="95" y="142" fill="#FFFFFF" font-size="28" font-family="Arial, Helvetica, sans-serif">
-      Hi, I'm Hye Rin
+    <rect x="70" y="100" rx="24" ry="24" width="360" height="88" fill="#2F3542"/>
+    <text x="95" y="132" fill="#FFFFFF" font-size="24" font-family="Arial, Helvetica, sans-serif">
+      <tspan x="95" dy="0">Hi, I'm Hye Rin</tspan>
+      <tspan x="95" dy="30">Greetings from Seoul, Korea 🙌</tspan>
     </text>
   </g>
 
+  <!-- Bubble 2 -->
   <g>
-    <rect x="70" y="180" rx="26" ry="26" width="620" height="92" fill="#434C5E"/>
-    <text x="95" y="218" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
-      I’m from Korea and interested in data analysis,
-    </text>
-    <text x="95" y="252" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
-      e-commerce, logistics, and product thinking.
+    <rect x="70" y="205" rx="24" ry="24" width="735" height="104" fill="#434C5E"/>
+    <text x="95" y="240" fill="#FFFFFF" font-size="23" font-family="Arial, Helvetica, sans-serif">
+      <tspan x="95" dy="0">I’m interested in using data to solve business problems,</tspan>
+      <tspan x="95" dy="32">from identifying root causes to actionable insights.</tspan>
     </text>
   </g>
 
+  <!-- Bubble 3 -->
   <g>
-    <rect x="70" y="290" rx="26" ry="26" width="680" height="106" fill="#434C5E"/>
-    <text x="95" y="330" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
-      I’m eager to challenge new things.
-    </text>
-    <text x="95" y="364" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
-      Currently learning Python, SQL, and English.
+    <rect x="70" y="325" rx="24" ry="24" width="690" height="104" fill="#434C5E"/>
+    <text x="95" y="360" fill="#FFFFFF" font-size="23" font-family="Arial, Helvetica, sans-serif">
+      <tspan x="95" dy="0">I’m eager to challenge new things by applying new tools</tspan>
+      <tspan x="95" dy="32">to analytics projects and finding more efficient ways to work.</tspan>
     </text>
   </g>
 
+  <!-- Bubble 4 -->
   <g>
-    <rect x="70" y="414" rx="24" ry="24" width="520" height="58" fill="#434C5E"/>
-    <text x="95" y="451" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
-      Find me on github.com/your-id
+    <rect x="430" y="445" rx="22" ry="22" width="400" height="54" fill="#0A84FF"/>
+    <text x="455" y="479" fill="#FFFFFF" font-size="23" font-family="Arial, Helvetica, sans-serif">
+      Still learning, always exploring. 🧭
     </text>
   </g>
 </svg>
