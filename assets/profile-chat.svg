@@ -1,0 +1,41 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="520" rx="28" fill="#0D1117"/>
+
+  <text x="70" y="72" fill="#F8FAFC" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    💌 Message from me with love
+  </text>
+
+  <g>
+    <rect x="70" y="105" rx="24" ry="24" width="250" height="58" fill="#2F3542"/>
+    <text x="95" y="142" fill="#FFFFFF" font-size="28" font-family="Arial, Helvetica, sans-serif">
+      Hi, I'm Hye Rin
+    </text>
+  </g>
+
+  <g>
+    <rect x="70" y="180" rx="26" ry="26" width="620" height="92" fill="#434C5E"/>
+    <text x="95" y="218" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
+      I’m from Korea and interested in data analysis,
+    </text>
+    <text x="95" y="252" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
+      e-commerce, logistics, and product thinking.
+    </text>
+  </g>
+
+  <g>
+    <rect x="70" y="290" rx="26" ry="26" width="680" height="106" fill="#434C5E"/>
+    <text x="95" y="330" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
+      I’m eager to challenge new things.
+    </text>
+    <text x="95" y="364" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
+      Currently learning Python, SQL, and English.
+    </text>
+  </g>
+
+  <g>
+    <rect x="70" y="414" rx="24" ry="24" width="520" height="58" fill="#434C5E"/>
+    <text x="95" y="451" fill="#FFFFFF" font-size="25" font-family="Arial, Helvetica, sans-serif">
+      Find me on github.com/your-id
+    </text>
+  </g>
+</svg>
